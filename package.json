@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "games-frontend-boilerplate": "^0.1.8"
+    "games-frontend-boilerplate": "^0.1.8",
+    "themis": "^1.1.6"
   }
 }
